@@ -1,2 +1,2 @@
-# Don't include original .docx file
-*.docx
+# Don't include non-rendered versions of Resume
+/Source_Files
