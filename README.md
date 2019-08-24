@@ -22,16 +22,17 @@ Proficient in / with:
 - Writing clean code
 - Refactoring techniques
 - Writing clear and concise documentation
-- GIT version control and GitHub
+- Git version control and GitHub
 - macOS
 
 Experience in / with:
 - Rust, Swift, Python, JavaScript, C#, and others
+- Documentation languages, such as Markdown
 - Parallel / concurrent programming
 - GUI application development with JUCE, Cocoa, and Cocoa Touch
 - Game development with Unity
 - Working from the Unix / Linux command line
-- Unit Testing
+- Unit testing
 
 ## Education
 
