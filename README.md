@@ -1,6 +1,6 @@
 # Joseph Timothy Lyons
 
-- 10625 Dennis Drive Plymouth IN, 46563 ● 574-540-7601 ● JosephTLyons@gmail.com
+- 10625 Dennis Drive Plymouth IN, 46563 | 574-540-7601 | JosephTLyons@gmail.com
 - https://github.com/JosephTLyons
 - http://www.linkedin.com/in/JosephTLyons
 
