@@ -14,8 +14,7 @@ future maintainability in mind.
 
 ## Technical Skills
 
-### Proficient in / with:
-
+Proficient in / with:
 - C/C++
 - Object-oriented programming
 - Writing clean code
@@ -24,8 +23,7 @@ future maintainability in mind.
 - GIT version control and GitHub
 - macOS
 
-### Experience in / with:
-
+Experience in / with:
 - Rust, Swift, Python, JavaScript, C#, and others
 - Parallel / concurrent programming
 - GUI application development with JUCE, Cocoa, and Cocoa Touch
