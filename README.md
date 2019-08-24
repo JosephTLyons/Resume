@@ -33,7 +33,7 @@ Experience in / with:
 
 ## Education
 
-Indiana University South Bend
+Indiana University South Bend \
 Bachelor of Science in Computer Science | May 2019
 - Graduated with Highest Distinction with a GPA of 3.98/4.0
 - Maintained the Dean's List for every semester attended
@@ -55,17 +55,20 @@ Bachelor of Science in Computer Science | May 2019
 
 ## Work Experience
 
-LivestockCity: Remote iOS Developer Intern | July 2019 – Present
+LivestockCity \
+Remote iOS Developer Intern | July 2019 – Present
 - Refactor existing code to increase future maintainability
 - Responsible for the addition of smaller features
 - Create user interfaces using auto layout
 - Enforce the usage of the MVC development pattern
 
-Various Companies:  Audio Software Beta Tester | 2011 – Present
+Various Companies\
+Audio Software Beta Tester | 2011 – Present
 - Thoroughly and rigorously tested Digital Audio Workstation plugins for many
   different audio developers
 
-Ponderosa Steakhouse:  Various Roles | November 2008 – August 2019
+Ponderosa Steakhouse \
+Various Roles | November 2008 – August 2019
 - Worked various positions, including cook, maintenance, and management
 - Obtained the ability to work and communicate within a team
 - Entrusted to train employees in new positions
