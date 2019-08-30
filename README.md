@@ -19,7 +19,7 @@ software systems with future maintainability in mind.
 Proficient in / with:
 - C/C++
 - Object-oriented programming
-- Writing clean code
+- Meticulously crafting clean code
 - Refactoring techniques
 - Writing clear and concise documentation
 - Git version control and GitHub
