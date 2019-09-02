@@ -62,7 +62,7 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 Remote iOS Developer Intern | July 2019 – Present
 - Refactor existing code to increase future maintainability
 - Responsible for the addition of smaller features
-- Create user interfaces using auto layout
+- Create scalable user interfaces using auto layout
 - Enforce the usage of the MVC development pattern
 
 *Various Companies* \
