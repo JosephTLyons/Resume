@@ -46,7 +46,7 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
     - Certificate in Advanced Computer Programming | December 2017
     - Certificate in Computer Programming | May 2017
 
-## Notable Projects & Collaborations
+## Notable Projects and Collaborations
 
 - Developed and released desktop applications and plug-ins for audio engineers
   and musicians
