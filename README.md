@@ -78,4 +78,6 @@ Various Roles | November 2008 – August 2019
 - Developed organizational tactics and time management skills in order to
   consistently serve quality product
 
-*References and Letters of Recommendation available upon request*
+## References and Letters of Recommendation
+
+Available upon request
