@@ -17,7 +17,7 @@ systems with future maintainability in mind.
 ## Technical Skills
 
 Proficient in / with:
-- C / C++
+- Modern C++ / C
 - Object-oriented programming
 - Meticulously crafting clean code
 - Refactoring techniques
