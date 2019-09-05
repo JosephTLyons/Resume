@@ -17,7 +17,7 @@ software systems with future maintainability in mind.
 ## Technical Skills
 
 Proficient in / with:
-- C/C++
+- C / C++
 - Object-oriented programming
 - Meticulously crafting clean code
 - Refactoring techniques
@@ -38,7 +38,7 @@ Experience in / with:
 
 *Indiana University South Bend* \
 Bachelor of Science in Computer Science | May 2015 - May 2019
-- Graduated with Highest Distinction with a GPA of 3.98/4.0
+- Graduated with Highest Distinction with a GPA of 3.98 / 4.0
 - Maintained the Dean's List for every semester attended
 - Awards
     - Computer and Information Sciences Excellence Award | May 2019
