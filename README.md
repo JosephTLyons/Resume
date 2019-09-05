@@ -10,9 +10,9 @@
 
 Goal-driven application developer with a passion for building tools to automate
 tasks.  Possesses a passion for finding optimal and efficient solutions to
-problems at-hand.  Aims for thoroughness that results in the delivery of
-highly consistent product.  Strives to design and develop highly scalable
-software systems with future maintainability in mind.
+problems at-hand.  Aims for thoroughness that results in the delivery of highly
+consistent product.  Strives to design and develop highly scalable software
+systems with future maintainability in mind.
 
 ## Technical Skills
 
