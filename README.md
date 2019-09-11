@@ -1,8 +1,8 @@
 # Joseph Timothy Lyons
 
 - **Home**: Plymouth IN, 46563
-- **Phone**: 574-540-7601
 - **Email**: JosephTLyons@gmail.com
+- **Phone**: Will be supplied via email to avoid spam and "robocalls"
 - **GitHub**: www.github.com/JosephTLyons
 - **LinkedIn**: www.linkedin.com/in/JosephTLyons
 
