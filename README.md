@@ -67,7 +67,7 @@ Remote iOS Developer Intern | July 2019 – Present
 
 *Various Companies* \
 Audio Software Beta Tester | 2011 – Present
-- Thoroughly and rigorously test Digital Audio Workstation plugins for many
+- Thoroughly and rigorously test Digital Audio Workstation plug-ins for many
   different audio developers
 
 *Ponderosa Steakhouse* \
