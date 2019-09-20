@@ -60,10 +60,10 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 *LivestockCity* \
 Remote iOS Developer Intern | July 2019 – Present
-- Refactor existing code to increase future maintainability
-- Responsible for the addition of smaller features
 - Create scalable user interfaces using auto layout
+- Responsible for the addition of smaller features
 - Enforce the usage of the MVC development pattern
+- Refactor existing code to increase future maintainability
 
 *Various Companies* \
 Audio Software Beta Tester | 2011 – Present
