@@ -58,17 +58,18 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 ## Work Experience
 
-*LivestockCity* \
-Remote iOS Developer Intern | July 2019 – Present
-- Create scalable user interfaces using auto layout
-- Responsible for the addition of smaller features
-- Enforce the usage of the MVC development pattern
-- Refactor existing code to increase future maintainability
 
 *Various Companies* \
 Audio Software Beta Tester | 2011 – Present
 - Thoroughly and rigorously test Digital Audio Workstation plug-ins for many
   different audio developers
+
+*LivestockCity* \
+Remote iOS Developer Intern | July 2019 – September 2019
+- Created scalable user interfaces using Auto Layout
+- Responsible for the addition of smaller features
+- Enforced the usage of the MVC development pattern
+- Refactored existing code to increase future maintainability
 
 *Ponderosa Steakhouse* \
 Various Roles | November 2008 – August 2019
