@@ -58,6 +58,9 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 ## Work Experience
 
+*SYSCON International, Inc.* \
+Backend Developer | September 2019 – Present
+- Temporary placeholder
 
 *Various Companies* \
 Audio Software Beta Tester | 2011 – Present
