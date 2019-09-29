@@ -79,6 +79,10 @@ Various Roles | November 2008 – August 2019
 - Developed organizational tactics and time management skills in order to
   consistently serve quality product
 
+*Gearslutz.com* \
+Audio Software Review Writer | July 2015 - December 2016
+- Wrote ~25 professional reviews for the official Gearslutz review team
+
 ## References and Letters of Recommendation
 
 Available upon request
