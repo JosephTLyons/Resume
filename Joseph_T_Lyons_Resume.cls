@@ -12,7 +12,7 @@
 
 \pagestyle{empty} % Suppress page numbers
 
-% HEADINGS COMMANDS: Commands for printing name and address
+% Headings commands: Commands for printing name and address
 \def \name#1{\def\@name{#1}} % Defines the \name command to set name
 \def \@name {} % Sets \@name to empty by default
 
@@ -24,14 +24,14 @@
   \endgroup
 }
 
-% PRINT THE HEADING LINES
+% Print the heading lines
 \let\ori@document=\document
 \renewcommand{\document}{
   \ori@document  % Begin document
   \printname % Print the name specified with \name
 }
 
-% SECTION FORMATTING
+% Section formatting
 % Defines the rSection environment for the large sections within the CV
 \newenvironment{rSection}[1]{ % 1 input argument - section name
   \sectionskip
@@ -46,7 +46,7 @@
   \end{list}
 }
 
-% WORK EXPERIENCE FORMATTING
+% Work experience formatting
 \newenvironment{rSubsection}[4]{ % 4 input arguments - company name, year(s) employed, job title and location
  {\bf #1} \hfill {#2} % Bold company name and date on the right
  \ifthenelse{\equal{#3}{}}{}{ % If the third argument is not specified, don't print the job title and location line
