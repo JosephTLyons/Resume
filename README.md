@@ -10,7 +10,7 @@
 
 Goal-driven application developer with a passion for building tools to automate
 tasks.  Possesses a passion for finding optimal and efficient solutions to
-problems at-hand.  Aims for thoroughness that results in the delivery of highly
+problems at hand.  Aims for thoroughness that results in the delivery of highly
 consistent product.  Strives to design and develop highly scalable software
 systems with future maintainability in mind.
 
@@ -58,9 +58,17 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 ## Work Experience
 
+*Sonimus* \
+...
+
 *SYSCON International, Inc.* \
-Backend Developer | September 2019 – Present
-- Temporary placeholder
+Backend Python Developer | September 2019 – Present
+- Use Python, and the Django framework, to aid in the development of the
+  PlantStar web application
+- Frequently write frontend JavaScript code and occasionally modify Django
+  Template HTML code
+- Work on a multitude of tasks, which span from programming core system features
+  to writing / modifying scripts used for process automation
 
 *Various Companies* \
 Audio Software Beta Tester | 2011 – Present
