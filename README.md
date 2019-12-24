@@ -58,9 +58,6 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 ## Work Experience
 
-*Sonimus* \
-...
-
 *SYSCON International, Inc.* \
 Backend Python Developer | September 2019 – Present
 - Use Python, and the Django framework, to aid in the development of the
