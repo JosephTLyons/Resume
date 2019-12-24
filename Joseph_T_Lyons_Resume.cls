@@ -1,17 +1,17 @@
-\ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
+% This LaTex resume uses Rishi Shah's template that can be found at Overlead.com
+% Only slight modifications have been made to the template.
+
+\ProvidesClass{Joseph_T_Lyons_Resume}[2010/07/10 v0.9 Resume class]
 
 \LoadClass[12pt, letterpaper]{article} % Font size and paper type
 
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
-\usepackage{ifthen} % Required for ifthenelse statements
+\usepackage{ifthen} % Required for if-then-else statements
 
 \pagestyle{empty} % Suppress page numbers
 
-%----------------------------------------------------------------------------------------
-%	HEADINGS COMMANDS: Commands for printing name and address
-%----------------------------------------------------------------------------------------
-
+% HEADINGS COMMANDS: Commands for printing name and address
 \def \name#1{\def\@name{#1}} % Defines the \name command to set name
 \def \@name {} % Sets \@name to empty by default
 
@@ -23,20 +23,14 @@
   \endgroup
 }
 
-%----------------------------------------------------------------------------------------
-%	PRINT THE HEADING LINES
-%----------------------------------------------------------------------------------------
-
+% PRINT THE HEADING LINES
 \let\ori@document=\document
 \renewcommand{\document}{
   \ori@document  % Begin document
   \printname % Print the name specified with \name
 }
 
-%----------------------------------------------------------------------------------------
-%	SECTION FORMATTING
-%----------------------------------------------------------------------------------------
-
+% SECTION FORMATTING
 % Defines the rSection environment for the large sections within the CV
 \newenvironment{rSection}[1]{ % 1 input argument - section name
   \sectionskip
@@ -51,10 +45,7 @@
   \end{list}
 }
 
-%----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE FORMATTING
-%----------------------------------------------------------------------------------------
-
+% WORK EXPERIENCE FORMATTING
 \newenvironment{rSubsection}[4]{ % 4 input arguments - company name, year(s) employed, job title and location
  {\bf #1} \hfill {#2} % Bold company name and date on the right
  \ifthenelse{\equal{#3}{}}{}{ % If the third argument is not specified, don't print the job title and location line
