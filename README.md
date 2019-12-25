@@ -4,7 +4,7 @@
 **Email**: JosephTLyons@gmail.com \
 **Phone**: Will be supplied via email to avoid spam and "robocalls" \
 **GitHub**: www.github.com/JosephTLyons \
-**LinkedIn**: www.linkedin.com/in/JosephTLyons \
+**LinkedIn**: www.linkedin.com/in/JosephTLyons
 
 ## Summary
 
