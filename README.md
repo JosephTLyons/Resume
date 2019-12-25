@@ -1,10 +1,10 @@
 # Joseph Timothy Lyons
 
-- **Home**: Plymouth IN, 46563
-- **Email**: JosephTLyons@gmail.com
-- **Phone**: Will be supplied via email to avoid spam and "robocalls"
-- **GitHub**: www.github.com/JosephTLyons
-- **LinkedIn**: www.linkedin.com/in/JosephTLyons
+**Home**: Plymouth IN, 46563 \
+**Email**: JosephTLyons@gmail.com \
+**Phone**: Will be supplied via email to avoid spam and "robocalls" \
+**GitHub**: www.github.com/JosephTLyons \
+**LinkedIn**: www.linkedin.com/in/JosephTLyons \
 
 ## Summary
 
