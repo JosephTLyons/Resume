@@ -59,7 +59,7 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 ## Work Experience
 
 *SYSCON International, Inc.* \
-Backend Python Developer | September 2019 – Present
+Backend Python Developer | September 2019 - Present
 - Use Python, and the Django framework, to aid in the development of the
   PlantStar web application
 - Frequently write frontend JavaScript code and occasionally modify Django
@@ -68,19 +68,19 @@ Backend Python Developer | September 2019 – Present
   to writing / modifying scripts used for process automation
 
 *Various Companies* \
-Audio Software Beta Tester | 2011 – Present
+Audio Software Beta Tester | 2011 - Present
 - Thoroughly and rigorously test Digital Audio Workstation plug-ins for many
   different audio developers
 
 *LivestockCity* \
-Remote iOS Developer Intern | July 2019 – September 2019
+Remote iOS Developer Intern | July 2019 - September 2019
 - Created scalable user interfaces using Auto Layout
 - Responsible for the addition of smaller features
 - Enforced the usage of the MVC development pattern
 - Refactored existing code to increase future maintainability
 
 *Ponderosa Steakhouse* \
-Various Roles | November 2008 – August 2019
+Various Roles | November 2008 - August 2019
 - Worked various positions, including cook, maintenance, and management
 - Obtained the ability to work and communicate within a team
 - Entrusted to train employees in new positions
