@@ -53,8 +53,8 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 - Created open-source text editor plug-ins and other developer tools to automate
   development tasks
 - Co-authored a simulated operating system
-- Contributed to widely-known open-source projects, such as Rust-Lang and Atom
-  (text editor)
+- Contributed to widely-known open-source projects, such as Rust-Lang, Atom, and
+  Nushell
 
 ## Work Experience
 
