@@ -53,7 +53,7 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 - Created Rust crates, text editor plug-ins, and other open-source tools to
   automate development tasks
 - Co-authored a simulated operating system
-- Contributed to widely-known open-source projects, such as Rust-Lang, Atom, and
+- Contributed to popular open-source projects, such as Atom, Rust-Lang, and
   Nushell
 
 ## Work Experience
@@ -89,7 +89,7 @@ Various Roles | November 2008 - August 2019
 
 *Gearslutz.com* \
 Audio Software Review Writer | July 2015 - December 2016
-- Wrote ~25 professional reviews for the official Gearslutz review team
+- Wrote ~25 professional reviews for the official Gearslutz product review team
 
 ## References and Letters of Recommendation
 
