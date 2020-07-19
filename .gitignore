@@ -6,4 +6,5 @@ NOTES.md
 *.dvi
 *.fdb_latexmk
 *.fls
+*.gz
 *.log
