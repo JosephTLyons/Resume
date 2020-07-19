@@ -4,4 +4,6 @@ NOTES.md
 # Misc files created by latex commands
 *.aux
 *.dvi
+*.fdb_latexmk
+*.fls
 *.log
