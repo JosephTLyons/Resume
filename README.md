@@ -46,15 +46,19 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
     - Certificate in Advanced Computer Programming | December 2017
     - Certificate in Computer Programming | May 2017
 
-## Notable Projects and Collaborations
+## Notable Projects and Collaborations (Past and Present)
 
 - Developed and released desktop applications and plug-ins for audio engineers
   and musicians
 - Created Rust crates, text editor plug-ins, and other open-source tools to
   automate development tasks
-- Co-authored a simulated operating system
 - Contributed to popular open-source projects, such as Atom, Rust-Lang, and
   Nushell
+- Nushell repository maintainer (triage duties)
+- Collaborated on open-source projects that have been deposited into the 2020
+  GitHub Archive Program (Arctic Code Vault)
+- Co-authored a simulated operating system
+- Reviewed technical books: Object Design Style Guide
 
 ## Work Experience
 
