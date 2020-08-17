@@ -29,7 +29,7 @@ Experience in / with:
 - Rust, Swift, Python, JavaScript, C#, and others
 - Documentation languages, such as Markdown
 - Parallel / concurrent programming
-- GUI application development with JUCE, Cocoa, and Cocoa Touch
+- Native GUI application development with JUCE, Cocoa, and Cocoa Touch
 - Game development with Unity
 - Working from the Unix / Linux command line
 - Unit testing
