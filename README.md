@@ -30,6 +30,7 @@ Experience in / with:
 - Documentation languages, such as Markdown
 - Parallel / concurrent programming
 - Native GUI application development with JUCE, Cocoa, and Cocoa Touch
+- Web application development via Django framework
 - Game development with Unity
 - Working from the Unix / Linux command line
 - Unit testing
