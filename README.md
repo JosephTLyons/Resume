@@ -66,11 +66,11 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 *SYSCON International, Inc.* \
 Backend Python Developer | September 2019 - Present
 - Use Python, and the Django framework, to aid in the development of the
-  PlantStar web application
-- Frequently write frontend JavaScript code and occasionally modify Django
-  Template HTML code
-- Work on a multitude of tasks, which span from programming core system features
-  to writing / modifying scripts used for process automation
+  PlantStar 4.0 web application
+- Work on a multitude of tasks, which span from implementing core system
+  functionality to writing / modifying scripts used for task automation
+- Occasionally works on minor frontend tasks using JavaScript, JQuery, and
+  Django Template HTML
 
 *Various Companies* \
 Audio Software Beta Tester | 2011 - Present
