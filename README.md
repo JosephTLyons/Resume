@@ -17,7 +17,7 @@ systems with future maintainability in mind.
 ## Technical Skills
 
 Proficient in / with:
-- Modern C++ / C
+- Python, C++
 - Object-oriented programming
 - Meticulously crafting clean code
 - Refactoring techniques
@@ -26,7 +26,7 @@ Proficient in / with:
 - macOS
 
 Experience in / with:
-- Rust, Swift, Python, JavaScript, C#, and others
+- Rust, JavaScript, Swift, C\#, and others
 - Documentation languages, such as Markdown
 - Parallel / concurrent programming
 - Native GUI application development with JUCE, Cocoa, and Cocoa Touch
