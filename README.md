@@ -69,6 +69,8 @@ Software Engineer I | September 2019 - Present
   PlantStar 4.0 web application
 - Work on a multitude of tasks, which span from implementing core system
   functionality to writing / modifying scripts used for task automation
+- Design and build tools to aid in the deployment of our product
+- Create and maintain open-source python libraries
 - Occasionally works on minor frontend tasks using JavaScript, JQuery, and
   Django Template HTML
 
