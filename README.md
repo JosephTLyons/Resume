@@ -64,7 +64,7 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 ## Work Experience
 
 *SYSCON International, Inc.* \
-Software Engineer I | September 2019 - Present
+Software Engineer II | September 2019 - Present
 - Use Python, and the Django framework, to aid in the development of the
   PlantStar 4.0 web application
 - Work on a multitude of tasks, which span from implementing core system
