@@ -63,21 +63,17 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 ## Work Experience
 
-*SYSCON International, Inc.* \
-Software Engineer II | September 2019 - Present
-- Use Python, and the Django framework, to aid in the development of the
-  PlantStar 4.0 web application
-- Work on a multitude of tasks, which span from implementing core system
-  functionality to writing / modifying scripts used for task automation
-- Design and build tools to aid in the deployment of our product
-- Create and maintain open-source python libraries
-- Occasionally works on minor frontend tasks using JavaScript, JQuery, and
-  Django Template HTML
+*Zed Industries* \
+User Ops Specialist | September 2022 - Current
 
-*Various Companies* \
-Audio Software Beta Tester | 2011 - Present
-- Thoroughly and rigorously test Digital Audio Workstation plug-ins for many
-  different audio developers
+*SYSCON International, Inc.* \
+Software Engineer II | September 2019 - September 2022
+- Used Python, and the Django framework, to aid in the development of the
+  PlantStar 4.0 web application
+- Worked on a multitude of tasks, which spanned from implementing core system
+  functionality to writing / modifying scripts used for task automation
+- Designed and build tools to aid in the deployment of our product
+- Createed and maintained open-source python libraries
 
 *LivestockCity* \
 Remote iOS Developer Intern | July 2019 - September 2019
@@ -93,6 +89,11 @@ Various Roles | November 2008 - August 2019
 - Entrusted to train employees in new positions
 - Developed organizational tactics and time management skills in order to
   consistently serve quality product
+  
+*Various Companies* \
+Audio Software Beta Tester | January 2011 - January 2017
+- Thoroughly and rigorously test Digital Audio Workstation plug-ins for many
+  different audio developers
 
 *Gearspace.com* \
 Audio Software Review Writer | July 2015 - December 2016
