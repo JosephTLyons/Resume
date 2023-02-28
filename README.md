@@ -40,7 +40,7 @@ Experience in / with:
 *Indiana University South Bend* \
 Bachelor of Science in Computer Science | May 2015 - May 2019
 - Graduated with Highest Distinction with a GPA of 3.98 / 4.0
-- Maintained the Dean's List for every semester attended
+- Maintained Dean's List for all semesters attended
 - Awards
     - Computer and Information Sciences Excellence Award | May 2019
 - Certificates
