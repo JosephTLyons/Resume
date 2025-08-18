@@ -8,11 +8,10 @@
 
 ## Summary
 
-Goal-driven application developer with a passion for building tools to automate
-tasks. Possesses a passion for finding optimal and efficient solutions to
-problems at hand. Aims for thoroughness that results in the delivery of highly
-consistent products. Strives to design and develop highly scalable software
-systems with future maintainability in mind.
+Goal-driven application developer with a passion for building tools to automate tasks.
+Possesses a passion for finding optimal and efficient solutions to problems at hand.
+Aims for thoroughness that results in the delivery of highly consistent products.
+Strives to design and develop highly scalable software systems with future maintainability in mind.
 
 ## Technical Skills
 
@@ -49,14 +48,10 @@ Bachelor of Science in Computer Science | May 2015 - May 2019
 
 ## Notable Projects and Collaborations (Past and Present)
 
-- Developed and released desktop applications and plug-ins for audio engineers
-  and musicians
-- Created Rust crates, text editor plug-ins, and other open-source tools to
-  automate development tasks
-- Contributed to popular open-source software, such as Atom, Rust-Lang, and
-  Nushell
-- Collaborated on open-source software that has been deposited into the 2020
-  GitHub Archive Program (Arctic Code Vault)
+- Developed and released desktop applications and plug-ins for audio engineers and musicians
+- Created Rust crates, text editor plug-ins, and other open-source tools to automate development tasks
+- Contributed to popular open-source software, such as Atom, Rust-Lang, and Nushell
+- Collaborated on open-source software that has been deposited into the 2020 GitHub Archive Program (Arctic Code Vault)
 - Co-authored a simulated operating system
 - Reviewed technical books: Object Design Style Guide
 
@@ -67,10 +62,8 @@ User Ops Specialist | September 2022 - Current
 
 *SYSCON International, Inc.* \
 Software Engineer II | September 2019 - September 2022
-- Used Python, and the Django framework, to aid in the development of the
-  PlantStar 4.0 web application
-- Worked on a multitude of tasks, which spanned from implementing core system
-  functionality to writing / modifying scripts used for task automation
+- Used Python, and the Django framework, to aid in the development of the PlantStar 4.0 web application
+- Worked on a multitude of tasks, which spanned from implementing core system functionality to writing / modifying scripts used fo task automation
 - Designed and built tools to aid in the deployment of our product
 - Created and maintained open-source Python libraries
 
@@ -86,13 +79,11 @@ Various Roles | November 2008 - August 2019
 - Worked various positions, including cook, maintenance, and management
 - Obtained the ability to work and communicate within a team
 - Entrusted to train employees in new positions
-- Developed organizational tactics and time management skills in order to
-  consistently serve quality product
+- Developed organizational tactics and time management skills in order to consistently serve quality product
 
 *Various Companies* \
 Audio Software Beta Tester | January 2011 - January 2017
-- Thoroughly and rigorously tested Digital Audio Workstation plug-ins for many
-  different audio developers
+- Thoroughly and rigorously tested Digital Audio Workstation plug-ins for many different audio developers
 
 *Gearspace.com* \
 Audio Software Review Writer | July 2015 - December 2016
