@@ -9,9 +9,9 @@
 ## Summary
 
 Goal-driven application developer with a passion for building tools to automate
-tasks.  Possesses a passion for finding optimal and efficient solutions to
-problems at hand.  Aims for thoroughness that results in the delivery of highly
-consistent product.  Strives to design and develop highly scalable software
+tasks. Possesses a passion for finding optimal and efficient solutions to
+problems at hand. Aims for thoroughness that results in the delivery of highly
+consistent products. Strives to design and develop highly scalable software
 systems with future maintainability in mind.
 
 ## Technical Skills
@@ -71,8 +71,8 @@ Software Engineer II | September 2019 - September 2022
   PlantStar 4.0 web application
 - Worked on a multitude of tasks, which spanned from implementing core system
   functionality to writing / modifying scripts used for task automation
-- Designed and build tools to aid in the deployment of our product
-- Createed and maintained open-source python libraries
+- Designed and built tools to aid in the deployment of our product
+- Created and maintained open-source Python libraries
 
 *LivestockCity* \
 Remote iOS Developer Intern | July 2019 - September 2019
@@ -88,10 +88,10 @@ Various Roles | November 2008 - August 2019
 - Entrusted to train employees in new positions
 - Developed organizational tactics and time management skills in order to
   consistently serve quality product
-  
+
 *Various Companies* \
 Audio Software Beta Tester | January 2011 - January 2017
-- Thoroughly and rigorously test Digital Audio Workstation plug-ins for many
+- Thoroughly and rigorously tested Digital Audio Workstation plug-ins for many
   different audio developers
 
 *Gearspace.com* \
